@@ -39,7 +39,7 @@ Sistema → registra as medições.
 
 Plataforma web → exibe os dados.
 
-Usuários e Altoridades → acompanham informações e alertas.
+Usuários e Autoridades → acompanham informações e alertas.
 
 ##
 ### Tecnologias Utilizadas
