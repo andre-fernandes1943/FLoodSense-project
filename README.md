@@ -42,7 +42,7 @@ Plataforma web → exibe os dados.
 Usuários e Autoridades → acompanham informações e tomada de decisão.
 
 ##
-# Tecnologias Utilizadas
+### Tecnologias Utilizadas
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
@@ -70,7 +70,7 @@ Usuários e Autoridades → acompanham informações e tomada de decisão.
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-            <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
