@@ -41,12 +41,6 @@ Plataforma web → exibe os dados.
 
 Usuários e Autoridades → acompanham informações e tomada de decisão.
 
-c++_gif.svg
-css3.svg
-git.png
-html5.svg
-javascript_gif.svg
-
 ##
 # Tecnologias Utilizadas
 <div style="display: flex; align-items: flex-start; align: center">
